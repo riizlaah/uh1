@@ -1,0 +1,24 @@
+:root {
+    font-family: 'Noto Sans Georgian', sans-serif;
+}
+.blue-tag {
+    background-color: #2C56A5;
+    color: white;
+    padding: 4px 8px;
+    margin-right: 10px;
+}
+a {
+    color: #2666be;
+}
+article {
+    margin: auto;
+    max-width: 800px;
+}
+.u-black {
+    color: black;
+}
+p {
+    font-family: "Roboto", sans-serif;
+    line-height: 2;
+}
+img {width: 100%;}
