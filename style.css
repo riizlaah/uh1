@@ -24,7 +24,7 @@ h2 {
 }
 article {
     margin: auto;
-    max-width: 584px;
+    width: 584px;
 }
 .u-black {
     color: black;
