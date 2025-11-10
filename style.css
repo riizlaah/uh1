@@ -14,7 +14,7 @@ a {
 h1 {
     font-weight: 400;
     line-height: 1;
-    max-width: 518px;
+    width: 518px;
     font-size: 24px;
 }
 h2 {
